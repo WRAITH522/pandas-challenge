@@ -6,7 +6,9 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 Summary of Analysis
 
-    15 total schools were in this data set and there were 39,170 students. There was a total budget of $24M with an overall passing percentage (>70 in math and reading) of 65.17%. Avg Math score was 78.99 while the average Reading score was 81.88. % passing in Math was 85.81% while reading was at 85.81%
+    District Analysis - 15 total schools were in this data set and there were 39,170 students. There was a total budget of $24M with an overall passing percentage (>70 in math and reading) of 65.17%. Avg Math score was 78.99 while the average Reading score was 81.88. % passing in Math was 85.81% while reading was at 85.81%
+
+    
     
 District Summary
 
